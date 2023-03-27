@@ -42,6 +42,8 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+
+#Blender backup files
 *.blend1
 
 # Unity3D generated meta files
