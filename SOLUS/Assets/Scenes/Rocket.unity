@@ -177,7 +177,7 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 1
   m_CookingOptions: 30
-  m_Mesh: {fileID: 819930915551634906, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
+  m_Mesh: {fileID: -4167721708808019192, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -396,7 +396,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919639869}
   m_LocalRotation: {x: 0.7071067, y: -0.7071068, z: 0.00000014751396, w: -0.00000014751393}
-  m_LocalPosition: {x: 0.3, y: -3.72, z: 0.9}
+  m_LocalPosition: {x: 0, y: -1.27, z: 0}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -5615,9 +5615,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8634971656262275435, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -7780977921221928415, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: -7581555220758141910, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -6424884310000509678, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -2799559796511659545, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
       propertyPath: m_Name
       value: Rocket
+      objectReference: {fileID: 0}
+    - target: {fileID: 1335091408942891776, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2443489218815123172, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6928533708566395856, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c522c1261abe9514db898fba9ac3ba16, type: 3}
