@@ -1,0 +1,6 @@
+# Set project language to C#
+*.cs linguist-language=C#
+
+# Exclude shader files from language detection
+*.shader linguist-vendored=true
+*.cginc linguist-vendored=true
